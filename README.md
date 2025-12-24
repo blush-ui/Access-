@@ -158,7 +158,7 @@
     <!-- VIP Card -->
     <section class="card vip">
       <span class="badge">VIP Access</span>
-      <h1 class="name">Rita Chidiac</h1>
+      <h1 class="name">Christine Kim</h1>
       <div class="tier">Platinum Member • Global</div>
       <div class="chip"></div>
       <div class="meta">
